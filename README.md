@@ -1,2 +1,0 @@
-# TestOne
-Test for Git
