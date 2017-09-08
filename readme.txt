@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge.
 fix bug 001.
-hello.py /usr/bin/env
